@@ -16,7 +16,7 @@ echo "\n";
 }
 system('clear');
 echo "Creator\t\t:Dea Yusuf";
-echo "<[ CAPING SPAM OTP ]>\n";
+echo "<[ Gamers ML ]>\n";
 echo "____________________\n\n";
 echo "Pesan : $pesan \n\n";
 echo "Nomer dimulai dari 62..\nAsupken Nomer\t: ";
